@@ -1,0 +1,72 @@
+14:05:00,18-10-2024, Power restoration
+17:30:00,18-10-2024, Restart data logging
+08:23:11,19-10-2024, Start circulation for WMs filling
+10:32:00,19-10-2024, Start chiller
+11:15:16,19-10-2024, Stop circulation
+01:25:00,20-10-2024, Lost UT-1
+13:31:01,20-10-2024,Pump cavitation
+13:50:43,20-10-2024,Restart pump after fixing lid piping
+12:24:55,21-10-2024,PLC Updating for flow thresholding. UT-l reconnected
+15:26:00,21-10-2024,Heat exchanger installation
+01:46:00,22-10-2024,Pump performance test with HX
+21:00:00,22-10-2024,Empty gallery for skid piping replacement
+23:25:00,22-10-2024,Refill skid
+23:36:00,22-10-2024,Solved bubble problem
+00:02:01,23-10-2024,Leaks during chiller commissioning
+01:52:56,23-10-2024,Leaks during chiller commissioning
+02:24:09,23-10-2024,Leaks during chiller commissioning
+03:36:09,23-10-2024,Stop pump to prepare for draining
+03:52:09,23-10-2024,Start draining to remove remaining bubbles
+06:30:09,23-10-2024,Detach bubbles from mPMTs
+00:04:28,24-10-2024,Started chiller
+00:32:28,24-10-2024,Started detector filling
+00:36:00,24-10-2024,Untightened union leaking
+00:46:28,24-10-2024,Accidentally armed thresholding
+00:49:00,24-10-2024,Continue filling
+01:24:38,24-10-2024,Stopped flow to obeserve bubbles
+01:41:38,24-10-2024,Continue filling from supply line to push air out
+01:55:56,24-10-2024,Level over top injection pipes
+01:58:56,24-10-2024,Continue filling from top
+03:09:24,24-10-2024,Finished filling
+03:27:30,24-10-2024,Restart Circulation
+21:30:00,24-10-2024,Lost UT-1
+06:05:00,25-10-2024,UT-1 recover
+14:30:00,25-10-2024,Lost UT-1
+02:00:00,26-10-2024,Alarm triggered by fluctuation
+02:30:00,26-10-2024,Restart
+00:06:00,29-10-2024,Turn off PLC for QC-1 connection to the mettler
+00:21:30,29-10-2024,Turn on PLC
+00:38:40,29-10-2024,Restart circulation
+00:50:14,29-10-2024,Start FT-1 calibration
+02:41:06,29-10-2024,Finish FT-1 calibration
+04:02:16,29-10-2024,Start flow thresholding updating
+04:36:22,29-10-2024,Finish flow thresholding updating
+00:44:59,30-10-2024,Turn off PLC for QC-1 connection to PLC
+00:56:00,30-10-2024,Start QC-1 temperature logging
+02:00:51,30-10-2024,Data logging updating
+04:32:38,30-10-2024,Checking UT-1 configuration with PC
+05:21:14,30-10-2024,Finished checking UT-1 with PC
+05:50:00,30-10-2024,Adding UT-1 reboot button
+06:35:52,30-10-2024,
+06:01:23,31-10-2024,Automated UT-1 reboot
+23:06:13,31-10-2024,PLC updatings
+01:14:19,01-11-2024,PLC updatings
+01:14:29,02-11-2024,PLC updatings
+03:53:43,02-11-2024,
+14:38:28,05-11-2024,Pressure drop caused by WMS filling
+09:28:33,07-11-2024,Pressure test start
+12:47:00,07-11-2024,Pressure test failed.Restart circulation
+14:10:00,07-11-2024,Water splling from GAD to leak sensor
+14:22:56,07-11-2024,Restart
+01:07:33,08-11-2024,Accidentaly triggered leak sensor when moving it
+01:20:29,08-11-2024,Restart
+08:23:52,08-11-2024,
+08:33:40,08-11-2024,
+09:30:48,12-11-2024,PLC updating
+18:57:12,15-11-2024,Alarm caused by PLC extended port glitch 
+19:32:04,15-11-2024,Changed UT-1 data requiring frequency
+00:22:14,16-11-2024,Adding time synchronizition
+01:26:29,16-11-2024,Finished time synchronizition
+21:49:07,16-11-2024,Testing alarm
+09:39:00,20-11-2024,Pressure test start
+12:17:10,20-11-2024,Pressure test finished

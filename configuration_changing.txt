@@ -1,0 +1,9 @@
+08:23:11,19-10-2024, Start circulation for WMs filling
+10:32:00,19-10-2024, Start chiller
+15:26:00,21-10-2024,Heat exchanger installation
+01:46:00,22-10-2024,Pump performance test with HX
+03:09:24,24-10-2024,Finished filling
+09:28:33,07-11-2024,Pressure test start
+12:47:00,07-11-2024,Pressure test failed.Restart circulation
+09:39:00,20-11-2024,Pressure test start
+12:17:10,20-11-2024,Pressure test finished
